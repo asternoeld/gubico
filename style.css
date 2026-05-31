@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f8f5ef;
+    text-align:center;
+    margin:0;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    padding:40px;
+}
+
+.logo{
+    width:180px;
+}
+
+.product{
+    width:350px;
+    border-radius:20px;
+}
+
+.tagline{
+    font-size:22px;
+    margin-bottom:30px;
+}
+
+a{
+    display:inline-block;
+    padding:12px 20px;
+    background:#5a3d2b;
+    color:white;
+    text-decoration:none;
+    border-radius:10px;
+}
